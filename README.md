@@ -12,4 +12,5 @@ A School Project Book Recommendation ASP.NET Web App
 - **User Profile and Sending Message:** You can view user profile and you can send them a message. Replying message not finished yet.
 
 # Screen
-![BookRecommendation](https://github.com/azizoglu/BookRecommendation/blob/master/Screens/Screen1.PNG)
+![BookRecommendation1](https://github.com/azizoglu/BookRecommendation/blob/master/Screens/Screen2.PNG =496x400)
+![BookRecommendation2](https://github.com/azizoglu/BookRecommendation/blob/master/Screens/Screen1.PNG)
