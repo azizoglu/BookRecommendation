@@ -11,7 +11,7 @@ namespace Emlak.Database
     {
         public SqlConnection baglan()
         {
-            SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-E0RQODF; Initial Catalog=DB_KITAP_DEGERLENDIRME; Integrated Security=true");
+            SqlConnection baglanti = new SqlConnection("Data Source=localhost; Initial Catalog=DB_KITAP_DEGERLENDIRME; Integrated Security=true");
             baglanti.Open();
             SqlConnection.ClearPool(baglanti);
             SqlConnection.ClearAllPools();
