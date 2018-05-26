@@ -1,0 +1,8 @@
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\obj\Debug\KitapDegerlendirmeSistemi.csproj.CoreCompileInputs.cache
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\bin\KitapDegerlendirmeSistemi.dll.config
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\bin\KitapDegerlendirmeSistemi.dll
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\bin\KitapDegerlendirmeSistemi.pdb
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\bin\AjaxControlToolkit.dll
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\obj\Debug\KitapDegerlendirmeSistemi.dll
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\obj\Debug\KitapDegerlendirmeSistemi.pdb
+C:\Users\AZIZOGLU\source\repos\KitapDegerlendirmeSistemi\KitapDegerlendirmeSistemi\obj\Debug\KitapDegerlendirmeSistemi.csprojResolveAssemblyReference.cache
